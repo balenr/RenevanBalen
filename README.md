@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Azure DevOps
 
-![René's github stats](https://github-readme-stats.vercel.app/api?username=balenr&show_icons=true&theme=dark)
+<!-- ![René's github stats](https://github-readme-stats.vercel.app/api?username=balenr&show_icons=true&theme=dark)
 
 <!--
 **balenr/balenr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
