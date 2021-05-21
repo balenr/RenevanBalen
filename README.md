@@ -1,6 +1,9 @@
 ### Hello 🙋‍♂️
 
-- 🌱 I’m currently learning Azure DevOps
+- 🔭 I’m currently working on Azure WVD deployments
+- 📚 I'm preparing for the AZ-140 exam
+- 🌱 I’m still learning Azure DevOps
+- ⚡ Fun fact: avid ballroomdancer
 
 <!-- ![René's github stats](https://github-readme-stats.vercel.app/api?username=balenr&show_icons=true&theme=dark)
 
