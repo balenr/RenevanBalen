@@ -1,6 +1,6 @@
 ### Hello 🙋‍♂️
 
-- 🔭 I’m currently working on Azure WVD deployments
+- 🔭 I’m currently working on several Azure Virtual Desktop deployments
 - 📚 I'm preparing for the AZ-140 exam
 - 🌱 I’m still learning Azure DevOps
 - ⚡ Fun fact: avid ballroomdancer
