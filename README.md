@@ -1,4 +1,4 @@
-### Hello 🙋‍♂️
+### Hello 🙋🏻‍♂️
 
 - 🔭 I’m currently working on several Azure Virtual Desktop deployments
 - 📚 I'm preparing for the AZ-140 exam
