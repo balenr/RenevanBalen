@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on several Azure Virtual Desktop deployments
 - 📚 I'm preparing for the AZ-140 exam
-- 🌱 I’m still learning Azure DevOps
+- 🌱 I’m learning Terraform and Ansible
 - ⚡ Fun fact: avid ballroomdancer
 
 <!-- ![René's github stats](https://github-readme-stats.vercel.app/api?username=balenr&show_icons=true&theme=dark)
