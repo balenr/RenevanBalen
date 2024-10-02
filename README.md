@@ -5,8 +5,8 @@
 - 🌱 I’m learning Terraform and Ansible
 - ⚡ Fun fact: avid ballroomdancer
 
-<!-- ![René's github stats](https://github-readme-stats.vercel.app/api?username=balenr&show_icons=true&theme=dark)
 
+![René's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balenr&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <!--
 **balenr/balenr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
